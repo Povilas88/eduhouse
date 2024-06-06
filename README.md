@@ -11,7 +11,7 @@ _website design project_
 
 ## 🌟 About
 
-This project is for educational porpuses only.
+This project is for educational purposes only.
 
 Site published at: https://github.com/Povilas88/eduhouse
 

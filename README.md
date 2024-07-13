@@ -69,7 +69,7 @@ Povilas: [Github](https://github.com/Povilas88)
 
 ## ⚠️ License
 
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the MIT License.
 
 ## 🔗 Other resources
 
